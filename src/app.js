@@ -1,7 +1,7 @@
 //import { players } from './data.js';
 //Progression 1 - create a Manager array and return it
 let managerName = "Alex Ferguson";
-let managerAge = 78;
+let managerAge = 60;
 let currentTeam = "Manchester FC";
 let trophiesWon = 27;
 
